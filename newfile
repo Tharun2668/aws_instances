@@ -1,5 +1,7 @@
 class java{
 public static void main (String[] args){
-arun.out.println("arun");
+system.out.println("arun");
+printf("arun");
+
 }
 }
